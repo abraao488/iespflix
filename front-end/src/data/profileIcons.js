@@ -1,0 +1,25 @@
+export const DEFAULT_PROFILE_ICON = '/profile-icons/classic-sunglasses.svg'
+
+export const profileIcons = [
+  ['classic-sunglasses', 'Classico Oculos', '/profile-icons/classic-sunglasses.svg'],
+  ['classic-red', 'Vermelho', '/profile-icons/classic-red.svg'],
+  ['classic-yellow', 'Amarelo', '/profile-icons/classic-yellow.svg'],
+  ['classic-blue', 'Azul', '/profile-icons/classic-blue.svg'],
+  ['classic-gray', 'Cinza', '/profile-icons/classic-gray.svg'],
+  ['classic-purple-mask', 'Mascara Roxa', '/profile-icons/classic-purple-mask.svg'],
+  ['classic-black-mask', 'Mascara Preta', '/profile-icons/classic-black-mask.svg'],
+  ['classic-orange', 'Laranja', '/profile-icons/classic-orange.svg'],
+  ['classic-penguin', 'Pinguim', '/profile-icons/classic-penguin.svg'],
+  ['classic-pink', 'Rosa', '/profile-icons/classic-pink.svg'],
+  ['classic-cool', 'Cool', '/profile-icons/classic-cool.svg'],
+  ['classic-green', 'Verde Olhos', '/profile-icons/classic-green.svg'],
+  ['classic-robot', 'Robo', '/profile-icons/classic-robot.svg'],
+  ['classic-ninja', 'Ninja', '/profile-icons/classic-ninja.svg'],
+  ['classic-mummy', 'Mumia', '/profile-icons/classic-mummy.svg'],
+  ['classic-smile-red', 'Sorriso Vermelho', '/profile-icons/classic-smile-red.svg'],
+  ['classic-smile-blue', 'Sorriso Azul', '/profile-icons/classic-smile-blue.svg'],
+  ['classic-smile-yellow', 'Sorriso Amarelo', '/profile-icons/classic-smile-yellow.svg'],
+  ['classic-smile-green', 'Sorriso Verde', '/profile-icons/classic-smile-green.svg'],
+  ['classic-purple', 'Roxo', '/profile-icons/classic-purple.svg'],
+  ['classic-magenta', 'Magenta', '/profile-icons/classic-magenta.svg'],
+]
